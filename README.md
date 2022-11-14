@@ -13,8 +13,9 @@
 
 **IN THE END WE JUST WANT TO BE RECOGNIZED AND LEAVE OUR MARK IN _HISTORY_.**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=450&color=6949F7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Welcome+to+my+world!;Don't+mind+the+mess.;I'm+trying+hard.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Barlow&weight=500&size=30&duration=4000&pause=500&color=1281A1&center=verdadeiro&vCenter=verdadeiro&multiline=true&height=150&lines=Welcome+to+my+world!;To+the+worst+world..;Please+run+away%2C+NOW!)](https://git.io/typing-svg)
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
