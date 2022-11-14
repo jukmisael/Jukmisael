@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Barlow&weight=500&size=30&duration=4000&pause=500&color=1281A1&center=verdadeiro&vCenter=verdadeiro&multiline=true&height=150&lines=Welcome+to+my+world!;To+the+worst+world..;Please+run+away%2C+NOW!)](https://git.io/typing-svg)
 
 
-h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
