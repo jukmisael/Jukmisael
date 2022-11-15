@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://media0.giphy.com/media/3ohhwBzRigK7JfXf6o/giphy.gif" width="600" height="300" />
 </div>
@@ -5,7 +6,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<div align="center">
 - 👋 Hi, I’m @Jukmisael
 > 🇧🇷 I'm Brazilian, and I just follow my ADHD wherever it takes me.
 
@@ -33,8 +34,8 @@
 
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left" >
+<h2 align="center">🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
@@ -50,3 +51,4 @@
 <br>
 
 ![Snake animation](https://github.com/Jukmisael/Jukmisael/blob/output/github-contribution-grid-snake.svg)
+</div>
