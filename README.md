@@ -46,4 +46,5 @@ https://giphy.com/gifs/animation-loop-3d-3ohhwBzRigK7JfXf6o
 </p>
 
 <br>
+
 ![Snake animation](https://github.com/Jukmisael/Jukmisael/blob/output/github-contribution-grid-snake.svg)
