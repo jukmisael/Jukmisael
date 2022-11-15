@@ -1,6 +1,10 @@
 ![Snake animation](https://github.com/Jukmisael/Jukmisael/blob/output/github-contribution-grid-snake.svg)
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @Jukmisael
 > 🇧🇷 I'm Brazilian, and I just follow my ADHD wherever it takes me.
 
@@ -8,6 +12,13 @@
 
 > ps: Productive when needed, willing to learn about anything, but let's take it one step at a time
 
+<br>
+<div id="badges">
+<a href="HTTPS://t.me/jukmisael">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+</a>
+</div>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jukmisael&theme=dark&hide_border=true&border_radius=6&locale=pt-br&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
 
@@ -31,3 +42,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="45" height="45"/>
                              
 </p>
+
