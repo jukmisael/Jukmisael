@@ -8,6 +8,7 @@
 </div>
 <div align="center">
 - 👋 Hi, I’m @Jukmisael
+  
 > 🇧🇷 I'm Brazilian, and I just follow my ADHD wherever it takes me.
 
 > 😮‍💨 Problems with focus and concentration, maybe I drop everything or embrace everything at once.
