@@ -1,12 +1,5 @@
 
 <div align="center">
-<img src="https://media0.giphy.com/media/3ohhwBzRigK7JfXf6o/giphy.gif" width="600" height="300" />
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div align="center">
 - 👋 Hi, I’m @Jukmisael
   
 > 🇧🇷 I'm Brazilian.
@@ -26,12 +19,9 @@
 </div>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jukmisael&theme=dark&hide_border=true&border_radius=6&locale=pt-br&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jukmisael&theme=modern-lilac2&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 **IN THE END WE JUST WANT TO BE RECOGNIZED AND LEAVE OUR MARK IN _HISTORY_.**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=450&color=6949F7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Welcome+to+my+world!;Don't+mind+the+mess.;I'm+trying+hard.)](https://git.io/typing-svg)
-
 
 
 
